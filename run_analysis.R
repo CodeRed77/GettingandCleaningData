@@ -1,7 +1,7 @@
 # Data Cleaning Project
 
 
-setwd("C:/Users/Renkoh/Desktop/Coursera/CleaningData/Project/Data/UCI HAR Dataset/")
+setwd("C:/Desktop/Coursera/CleaningData/Project/Data/UCI HAR Dataset/")
 
 library("plyr")
 library("dplyr")
