@@ -1,5 +1,4 @@
-# Getting and Cleaning Data - Coursera Data Science Course Project
-# Code Book
+### Getting and Cleaning Data - Coursera Data Science Course Project
 
 ###Overview of Data Source
 
