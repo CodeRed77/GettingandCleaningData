@@ -14,7 +14,7 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 
 ###Objective
 
-The objective of the project was to form a tidy data set from the data sourced above. This including merging train and test data sets as well as summarizing the data.
+The objective of the project was to form a tidy data set from the data sourced above. This included merging train and test data sets as well as summarizing the data.
 
 Overview of steps:
   1. Merges the training and the test sets to create one data set.
