@@ -2,7 +2,7 @@
 
 ###Overview of Data Source
 
-This project details data related to wearable computing. Companies like Fitbit, Nike, and Jawbone Up are racing to develop the most advanced algorithms to attract new users. The data linked to from the course website represent data collected from the accelerometers from the Samsung Galaxy S smartphone. The full description of the original data is available at the site where the data was obtained: 
+This project details data related to wearable computing. The full description of the original data is available at the site where the data was obtained: 
 
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
 
@@ -15,7 +15,8 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 
 The objective of the project was to form a tidy data set from the data sourced above. This included merging train and test data sets as well as summarizing the data.
 
-Overview of steps:
+The attached R script (run_analysis.R) performs the following to clean up the data. Please ensure that the 'plyr' and 'dplyr' packages are installed before running the code.
+
   1. Merges the training and the test sets to create one data set.
   2. Extracts only the measurements on the mean and standard deviation for each measurement. 
   3. Uses descriptive activity names to name the activities in the data set
